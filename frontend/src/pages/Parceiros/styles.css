@@ -1,0 +1,22 @@
+.parceiro-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top: 3%;
+}
+
+.parceiro-container > .imgIvc {
+    position: relative;
+    padding-right: 25px;
+    top: -234px;
+}
+
+.parceiro-container p {
+    font-size: 19px;
+    line-height: 1.7;
+    letter-spacing: 0.3px;
+    color: #2d2d2d;
+    padding-right: 25px;
+}
